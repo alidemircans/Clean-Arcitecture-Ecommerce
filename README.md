@@ -1,4 +1,4 @@
-# challange_project
+# Clean Arch
 
 A new Flutter project.
 
